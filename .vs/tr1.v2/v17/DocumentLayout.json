@@ -7,12 +7,48 @@
       "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\dtos\\juegodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:dtos\\juegodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\models\\valoracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:models\\valoracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\models\\juegoconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:models\\juegoconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\models\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:models\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|c:\\users\\user\\source\\repos\\tr1.v2\\models\\juegogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447C8E-2CC0-4A7B-99B7-DEA6CB0E0956}|tr1.v2.csproj|solutionrelative:models\\juegogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +82,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T01:46:20.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T01:04:32.183Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T01:04:29.114Z",
+              "WhenOpened": "2024-10-26T16:04:32.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JuegoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\DTOs\\JuegoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\JuegoDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\DTOs\\JuegoDTO.cs",
+              "RelativeToolTip": "DTOs\\JuegoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:03:21.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv0IAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:01:37.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuegosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Controllers\\JuegosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JuegosController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Controllers\\JuegosController.cs",
+              "RelativeToolTip": "Controllers\\JuegosController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAADwv9MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:44:26.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JuegoConsola.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\JuegoConsola.cs",
+              "RelativeDocumentMoniker": "Models\\JuegoConsola.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\JuegoConsola.cs",
+              "RelativeToolTip": "Models\\JuegoConsola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:34:36.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Valoracion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Valoracion.cs",
+              "RelativeDocumentMoniker": "Models\\Valoracion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Valoracion.cs",
+              "RelativeToolTip": "Models\\Valoracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:32:27.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Comentario.cs",
+              "RelativeToolTip": "Models\\Comentario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:30:06.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JuegoGenero.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\JuegoGenero.cs",
+              "RelativeDocumentMoniker": "Models\\JuegoGenero.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\JuegoGenero.cs",
+              "RelativeToolTip": "Models\\JuegoGenero.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:24:45.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:28:33.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consola.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Consola.cs",
+              "RelativeDocumentMoniker": "Models\\Consola.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Consola.cs",
+              "RelativeToolTip": "Models\\Consola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:26:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Genero.cs",
+              "RelativeToolTip": "Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:24:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Juego.cs",
+              "RelativeDocumentMoniker": "Models\\Juego.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tr1.v2\\Models\\Juego.cs",
+              "RelativeToolTip": "Models\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:23:12.185Z",
               "EditorCaption": ""
             }
           ]

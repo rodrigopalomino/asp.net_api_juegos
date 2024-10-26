@@ -50,7 +50,8 @@ namespace tr1.v2.Controllers
                             Nombre = g.First().Juego.Nombre,
                             Descripcion = g.First().Juego.Descripcion,
                             Fecha = g.First().Juego.Fecha,
-                            Desarrolladora = g.First().Juego.Desarrolladora
+                            Desarrolladora = g.First().Juego.Desarrolladora,
+                            UrlImg = g.First().Juego.UrlImg
                         },
                         Generos = g.Select(jg => new
                         {
@@ -112,7 +113,8 @@ namespace tr1.v2.Controllers
                         Nombre = juegoGeneros.First().Juego.Nombre,
                         Descripcion = juegoGeneros.First().Juego.Descripcion,
                         Fecha = juegoGeneros.First().Juego.Fecha,
-                        Desarrolladora = juegoGeneros.First().Juego.Desarrolladora
+                        Desarrolladora = juegoGeneros.First().Juego.Desarrolladora,
+                        UrlImg = juegoGeneros.First().Juego.UrlImg,
                     },
                     Generos = juegoGeneros.Select(jg => new
                     {
@@ -176,6 +178,7 @@ namespace tr1.v2.Controllers
                 Descripcion = juegoDTO.Descripcion,
                 Fecha = juegoDTO.Fecha,
                 Desarrolladora = juegoDTO.Desarrolladora,
+                UrlImg = juegoDTO.UrlImg,
             };
 
             _context.Juegos.Add(juego);

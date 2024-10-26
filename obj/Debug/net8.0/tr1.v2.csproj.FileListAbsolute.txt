@@ -257,3 +257,4 @@ C:\Users\USER\source\repos\tr1.v2\bin\Debug\net8.0\runtimes\win\lib\net7.0\Micro
 C:\Users\USER\source\repos\tr1.v2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\USER\source\repos\tr1.v2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\USER\source\repos\tr1.v2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\tr1.v2\obj\Debug\net8.0\tr1.v2.sourcelink.json

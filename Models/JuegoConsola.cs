@@ -3,9 +3,9 @@
     public class JuegoConsola
     {
         public int JuegoId { get; set; }
-        public  Juego Juego { get; set; }
+        public  Juego? Juego { get; set; }
 
         public int ConsolaId { get; set; }
-        public  Consola Consola { get; set; }
+        public  Consola? Consola { get; set; }
     }
 }
